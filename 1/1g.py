@@ -1,0 +1,6 @@
+print("Dime tu nombre")
+nombre = input()
+edad = input("Y ahora dime tu edad")
+edad_numero = int(edad)
+print("Tu nombre es %s y tu edad es %s" %(nombre, edad))
+print("El triple de tu edad es %d" %(edad_numero*3))

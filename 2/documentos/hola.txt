@@ -1,0 +1,2 @@
+hola es un archivo para pruebas de python apertura de archivos
+este es el archivo 2
